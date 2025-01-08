@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+    font-family: sans-serif;
+}
+
+header{
+    color: aqua;
+    text-align: center;
+    font-size: x-large;
+}
+
+main{
+    width: 60%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+button{
+    margin-left: 45%;
+    background-color: aqua;
+}
+
+button a{
+    color: aquamarine;
+    text-decoration: none;
+    font-family: cursive;
+}
